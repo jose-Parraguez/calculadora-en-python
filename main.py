@@ -13,7 +13,7 @@ i = 0
 
 e_texto = Entry(ventana, font= ("Calibri 20"))
 e_texto.grid(row = 0, column = 0, columnspan = 5, padx = 5, pady = 5)
-#columnspan sirve para ver cuantas columnas quierer usar el boton
+#columnspan sirve para ver cuantas columnas quierer usar el botonnnn
 
 
 #------------------------------------------------------------------------------
